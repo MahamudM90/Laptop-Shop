@@ -30,8 +30,12 @@
 ###### Singup & Login Page For Client
 ![ScreenShot of Form](screenshots/f.png)
 
-###### Shiping
+
+###### Shipping
 ![ScreenShot of Form](screenshots/g.png)
+
+
+###### Payment 
 ![ScreenShot of Form](screenshots/h.png)
 ![ScreenShot of Form](screenshots/i.png)
 ![ScreenShot of Form](screenshots/j.png)
