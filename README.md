@@ -11,7 +11,7 @@
 
 ![ScreenShot of Form](screenshots/a.png)
 
-###### HomePage
+###### Latest Products
 ![ScreenShot of Form](screenshots/b.png)
 ![ScreenShot of Form](screenshots/c.png)
 ![ScreenShot of Form](screenshots/d.png)
