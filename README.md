@@ -1,6 +1,6 @@
 # Laptop-Shop eCommerce Platform
 
-> ECommerce platform built with the MERN stack & Redux.
+> E-Commerce platform built with the MERN stack & Redux.
 
 
 
