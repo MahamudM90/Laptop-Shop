@@ -11,8 +11,11 @@
 
 ![ScreenShot of Form](screenshots/a.png)
 
+
 ###### Latest Products
 ![ScreenShot of Form](screenshots/b.png)
+
+###### Footer
 ![ScreenShot of Form](screenshots/c.png)
 ![ScreenShot of Form](screenshots/d.png)
 ![ScreenShot of Form](screenshots/e.png)
