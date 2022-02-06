@@ -38,7 +38,8 @@
 ###### Payment 
 ![ScreenShot of Form](screenshots/h.png)
 
-###### Order
+
+###### Order-Shipping
 ![ScreenShot of Form](screenshots/i.png)
 ![ScreenShot of Form](screenshots/j.png)
 ![ScreenShot of Form](screenshots/k.png)
