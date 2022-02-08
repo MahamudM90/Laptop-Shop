@@ -115,7 +115,7 @@
 
 ## Features
 
-- Full featured shopping cart
+- Full featured of shopping cart
 - Product reviews and ratings
 - Top products carousel
 - Product pagination
