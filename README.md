@@ -6,7 +6,7 @@
 
 
 
-###### HomePage
+###### Home Page
 
 
 ![ScreenShot of Form](screenshots/a.png)
