@@ -132,7 +132,7 @@
 
 
 
-### ES Modules in Node
+### ES Modules In Node
 
 We use ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+ or you will need to add the "--experimental-modules" flag.
 
